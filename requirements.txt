@@ -1,0 +1,16 @@
+numpy==1.20.2
+pandas==1.2.4
+openpyxl==3.0.7
+requests==2.25.1
+beautifulsoup4==4.9.3
+Unidecode==1.2.0
+tqdm==4.60.0
+scikit-learn==0.24.2
+scipy==1.6.3
+joblib==1.0.1
+nltk==3.6.2
+gensim==4.0.1
+pyemd==0.5.1
+spacy==3.0.6
+PyMuPDF==1.18.13
+streamlit==0.82.0
